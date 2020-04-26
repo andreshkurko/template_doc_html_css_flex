@@ -128,11 +128,3 @@ code {
     min-width: 233px;
   }
 }
-
-.w3-green, .w3-hover-green:hover {
-  color: #fff!important;
-  background-color: #006400!important;
-}
-.w3-round, .w3-round-medium {
-  border-radius: 0px;
-}
